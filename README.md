@@ -3,7 +3,7 @@ Get current news and stats from the NBA live and directly to your terminal!
 
 To run the news retriever you will need to have python 3 installed, as well as the pip libraries click and requests.
 
-Then, just save main.py whever you want on your local machine and run:
+Then, just save main.py wherever you want on your local machine and run:
 
     python main.py --lookup="game-summary"
     
